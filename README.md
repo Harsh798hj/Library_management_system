@@ -244,4 +244,4 @@ Authorization: Bearer <access_token>
 **Harsh Jatav**  
 Backend Developer | Django | REST API | Python |
 📧 harshjatav798@gmail.com  
-🔗 [GitHub](https://github.com/<Harsh798hj>)
+🔗 [GitHub](https://github.com/Harsh798hj)
