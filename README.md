@@ -217,6 +217,15 @@ Authorization: Bearer <access_token>
 ```
 
 ---
+🧩 System Design — UML Class Diagram
+
+The following UML Class Diagram visually represents the core architecture of the Library Management System.
+It highlights the relationships between major entities such as User, Book, CartItem, IssuedBook, SavedForLater, and Report.
+This structure demonstrates how customers and librarians interact with the system — customers can browse, add books to their cart, and issue them, while librarians can manage inventory and generate reports with filters like most issued, least issued, and author.
+
+<img width="2864" height="1342" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-10-14-181810" src="https://github.com/user-attachments/assets/80baf1fa-91d5-41fa-bfa4-930a926dc4d0" />
+
+---
 
 ### 💾 Saved For Later
 | Method | Endpoint | Description | Access |
