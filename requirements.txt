@@ -1,0 +1,16 @@
+# Core Django dependencies
+Django==5.0.3
+djangorestframework==3.15.2
+
+# JWT Authentication
+djangorestframework-simplejwt==5.3.1
+
+# CORS support for frontend
+django-cors-headers==4.3.1
+
+# Deployment
+gunicorn==21.2.0
+
+# Django utilities
+sqlparse==0.5.1
+tzdata==2025.1
